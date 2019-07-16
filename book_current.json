@@ -1,0 +1,19 @@
+{
+  "title": "工控自动化技术：PLC",
+  "description": "总结工控自动化技术PLC的概念的含义，硬件和软件的含义，基本工作原理，典型的PLC系统，PLC具体长什么样，常见PLC语言种类，常见PLC厂商，PLC工作人员典型工作状态，PLC领域内常见名词和概念，PLC相关的概念",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "industrial_automation_plc"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/industrial_automation_plc/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/industrial_automation_plc/pdf/industrial_automation_plc.pdf"
+    }
+  }
+}
