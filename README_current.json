@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.0",
-  "lastUpdate": "20190716",
+  "latestVersion": "v1.1",
+  "lastUpdate": "20190717",
   "gitRepoName": "industrial_automation_plc",
   "bookName": "工控自动化技术：PLC",
   "bookDescription": "总结工控自动化技术PLC的概念的含义，硬件和软件的含义，基本工作原理，典型的PLC系统，PLC具体长什么样，常见PLC语言种类，常见PLC厂商，PLC工作人员典型工作状态，PLC领域内常见名词和概念，PLC相关的概念"
